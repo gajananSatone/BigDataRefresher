@@ -1,3 +1,5 @@
+package gajanans.spark.EngineersGuide
+
 import org.apache.spark.SparkContext
 
 object IInitiateContext {

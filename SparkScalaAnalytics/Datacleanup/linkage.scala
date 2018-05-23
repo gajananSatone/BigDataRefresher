@@ -1,4 +1,4 @@
-package gajanans.spark.datacleanup
+package gajanans.spark.Datacleanup
 
 import org.apache.spark.SparkContext
 import java.lang.Double.isNaN
